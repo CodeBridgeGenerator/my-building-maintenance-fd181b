@@ -1,0 +1,14 @@
+[
+    {
+        "Item ID": "sample",
+        "Item Name": "sample",
+        "Category": "sample",
+        "Unit of Measure": "sample",
+        "Quantity on Hand": "sample",
+        "Minimum Stock Level": "sample",
+        "Maximum Stock Level": "sample",
+        "Reorder Point": "sample",
+        "Supplier/Vendor": "sample",
+        "__EMPTY": "sample"
+    }
+]
